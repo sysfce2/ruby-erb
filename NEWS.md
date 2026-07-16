@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.0.5
+
+* Avoid overridable method dispatch in the initialization guard
+
 ## 6.0.4
 
 * Prohibit `def_method` on marshal-loaded ERB instances
