@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.0.6
+
+* Fix `-h` CLI option
+
 ## 6.0.5
 
 * Avoid overridable method dispatch in the initialization guard
